@@ -17,4 +17,4 @@ CSS.
 - Open in browser.
 
 ## Acknowledments
-- Hashnode.com (where I found the Shivek post), Shivek Khurana (fist article I read about Tachyons), Tachyons team.
+- Hashnode.com (where I found the Shivek post), Shivek Khurana (fist article I read about Tachyons), Tachyons-CSS development team.
